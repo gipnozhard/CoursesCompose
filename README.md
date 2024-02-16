@@ -1,6 +1,8 @@
 Ссылка на задание:
 https://developer.android.com/codelabs/basic-android-kotlin-compose-practice-grid?continue=https%3A%2F%2Fdeveloper.android.com%2Fcourses%2Fpathways%2Fandroid-basics-compose-unit-3-pathway-2%23codelab-https%3A%2F%2Fdeveloper.android.com%2Fcodelabs%2Fbasic-android-kotlin-compose-practice-grid#0
 
+Unit3: Display lists and use Material Design3 -> 2: Build a scrollable list -> 5 Activities and Quiz -> 4 app " CoursesCopmose".
+
 Мое задание представленно с коментариями.
 
 В этих практических задачах вы создадите приложение "Курсы" с нуля. Приложение "Курсы" отображает список тем курса.
